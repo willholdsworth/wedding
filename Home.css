@@ -1,6 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(118,131,116,0.8), rgba(118,131,116,0.8)), url("https://www.henry-moore.org/images/cache/lg/visit/studios-and-gardens/weddings-and-special-events/img_9280.jpg");
-  background-position: 50% 50%;
+  background-image: linear-gradient(0deg, rgba(118,131,116,0.75), rgba(118,131,116,0.75)), url("https://static.wixstatic.com/media/4991c8_b83602b07c9246549f6f126c35e10473~mv2.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -113,11 +112,6 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-1 {
-    background-position: 54.67% 100%;
-    background-size: 130%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 503px;
   }
@@ -149,10 +143,6 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
-    background-size: auto 130%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 682px;
   }
