@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(37,49,43,0.95), rgba(37,49,43,0.95)), url("images/mv24.jpg");
+  background-image: linear-gradient(0deg, rgba(145,154,132,0.95), rgba(145,154,132,0.95)), url("images/mv24.jpg");
   background-position: 50% 50%;
 }
 
@@ -115,7 +115,6 @@
 @media (max-width: 575px) {
    .u-section-1 {
     background-position: 55.02% 0%;
-    background-size: auto 115%;
   }
 
   .u-section-1 .u-sheet-1 {
