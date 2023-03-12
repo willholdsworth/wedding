@@ -41322,6 +41322,10 @@ a.u-link.u-text-hover-grey-90:hover {
   background-image: none;
 }
 
+.u-footer .u-sheet-1 {
+  min-height: 103px;
+}
+
 .u-footer .u-image-1 {
   width: 146px;
   height: 103px;
@@ -41330,11 +41334,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
-@media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 103px;
-  }
-}
+
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
