@@ -1323,16 +1323,13 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 4728px;
+    min-height: 4296px;
   }
 
   .u-section-6 .u-gallery-1 {
-    height: 4640px;
-    margin-top: 44px;
-    margin-bottom: 44px;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
+    height: 4220px;
+    width: 318px;
+    margin: 38px auto;
   }
 
   .u-section-6 .u-gallery-inner-1 {
