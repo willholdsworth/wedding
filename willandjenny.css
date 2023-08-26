@@ -57,29 +57,26 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 483px;
+    min-height: 396px;
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: 82px;
+    margin-top: 41px;
   }
 
   .u-section-1 .u-text-1 {
     width: 380px;
-    margin-top: -94px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: -94px auto 92px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 470px;
+    min-height: 415px;
   }
 
   .u-section-1 .u-image-1 {
     height: 240px;
-    margin-top: 107px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -88,9 +85,7 @@
   .u-section-1 .u-text-1 {
     font-size: 0.625rem;
     width: auto;
-    margin-top: -63px;
-    margin-left: 0;
-    margin-right: 0;
+    margin: -19px 0 60px;
   }
 } .u-section-2 {
   background-image: none;
